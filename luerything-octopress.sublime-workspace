@@ -1,0 +1,563 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 34.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kekeqi/Work/github/octopress/public/blog/index.html",
+		"/Users/kekeqi/Work/github/octopress/source/_posts/2012-05-02-something-about-tab.markdown",
+		"/Users/kekeqi/Work/github/octopress/_config.yml",
+		"/Users/kekeqi/Work/github/octopress/source/_posts/2012-05-12-jaxb-broken-by-jdk-7.markdown",
+		"/Users/kekeqi/Work/github/octopress/source/_posts/2012-05-12-boom-de-yada.markdown",
+		"/Users/kekeqi/Work/github/octopress/Rakefile",
+		"/Users/kekeqi/Work/github/octopress/source/_posts/2012-05-01-move-to-octopress.markdown",
+		"/Users/kekeqi/Work/github/octopress/source/_includes/custom/navigation.html",
+		"/Users/kekeqi/Work/github/octopress/source/_includes/custom/asides/category_list.html",
+		"/Users/kekeqi/Work/github/octopress/source/_includes/custom/asides/tag_cloud.html",
+		"/Users/kekeqi/Work/github/octopress/source/_posts/2012-05-01-test.markdown",
+		"/Users/kekeqi/Work/sm_trunk/client/cwc/cwc-framework/test/spellChecker/application-context.xml",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/view/FileInput.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/util/ImageSource.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/view/Image.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/web/WEB-INF/templates/topaz/image.xsl",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/view/Component.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/web/WEB-INF/templates/topaz/checkbox.xsl",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/view/Subview.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLButton.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLImage.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLAttachments.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/form/Form.java",
+		"/Users/kekeqi/Work/sm_trunk/client/form/src/java/com/hp/ov/sm/client/form/convert/SimpleWidget.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLSubView.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLControl.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/web/WEB-INF/templates/topaz/label.xsl",
+		"/Users/kekeqi/Work/sm_trunk/client/gwt/test/java/com/hp/ov/sm/client/webtier/gwt/list/client/grid/ColumnRendererGwtTest.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/test/java/com/hp/ov/sm/client/webtier/dao/handlers/impl/mock/DisplayFormsXmlDocQueryMock.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/Props.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLChart.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLCheckbox.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLChildButton.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLCombo.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLDateTime.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLDecimal.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLDynamicForm.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLGroup.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLLabel.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLLinkLabel.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLTree.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLTimer.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLText.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLChangeViewer.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLChangeCategoryViewer.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLCategoryViewer.java",
+		"/Users/kekeqi/Work/sm_trunk/client/form/src/java/com/hp/ov/sm/client/form/Form.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/soap/SOAPMetaFactory.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/preferences/ConnectionPreferences.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/soap/BaseSoapClient.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/communications/SCClientSysInfo.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/util/Constants.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/cpee_format.properties",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/util/WebControllerUtil.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/soap/SoapReq.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/WebClient.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/soap/SCSOAPConnectionImpl.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/communications/SOAPClient.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/WebController.java",
+		"/Users/kekeqi/Work/sm_trunk/client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/controller/Controller.java",
+		"/Users/kekeqi/Work/sm_trunk/client/client-common/src/java/com/hp/ov/sm/client/common/generators/SOAPGenerator.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/util/Messenger.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/util/Protocol.java",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/web/js/lists.js",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/util/FormCache.java",
+		"/Users/kekeqi/Work/sm_trunk/server/utility/src/java/com/hp/ov/sm/server/utility/SoapClient.java",
+		"/Users/kekeqi/Work/sm_trunk/client/cwc/cwc-framework/web/framework/cwc/js/cwc-Extjs-NavTree.js",
+		"/Users/kekeqi/Work/sm_trunk/client/cwc/cwc-framework/web/framework/cwc/js/cwc-base.js",
+		"/Users/kekeqi/Work/sm_trunk/client/cwc/cwc-framework/web/framework/cwc/js/cwc-Extjs-TabPanel.js",
+		"/Users/kekeqi/Work/sm_trunk/client/cwc/cwc-framework/web/framework/cwc/js/cwc-Extjs-DetailTab.js",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/web/WEB-INF/templates/print/qbe_list.xsl",
+		"/Users/kekeqi/Work/sm_trunk/client/cwc/cwc-framework/web/framework/cwc/js/cwc-Extjs-DetailtabFrame.js",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/web/WEB-INF/templates/topaz/qbe_list.xsl",
+		"/Users/kekeqi/Work/sm_trunk/client/cwc/cwc-framework/web/framework/cwc/cwc_listdetail.jsp",
+		"/Users/kekeqi/Work/sm_trunk/client/pom.xml",
+		"/Users/kekeqi/Work/sm_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/WebControllerServlet.java",
+		"/Users/kekeqi/Work/sm_trunk/knowledgemanagement/dist/search-engine.xml",
+		"/Users/kekeqi/Work/sm_trunk/pom.xml",
+		"/Users/kekeqi/Work/sm_trunk/sm_trunk.sublime-project",
+		"/C/work/hp/sm/SM_trunk/client/webtier/src/java/com/hp/ov/sm/client/webtier/WebController.java",
+		"/C/work/hp/sm/SM_trunk/server/rte/src/CScFile.h",
+		"/C/work/hp/sm/SM_trunk/client/cwc/trunk/cwc-framework/src/java/com/hp/ov/cwc/web/CwcServletContextListener.java",
+		"/C/work/hp/sm/SM_trunk/server/common/src/java/com/hp/ov/sm/common/core/JLog.java",
+		"/C/work/hp/sm/SM_trunk/server/common/src/java/com/hp/ov/sm/common/core/SessionListener.java",
+		"/C/work/hp/sm/SM_trunk/client/cwc/trunk/cwc-framework/web/framework/cwc/cwc_listdetail.jsp",
+		"/C/work/hp/sm/SM_trunk/client/cwc/trunk/perspective-sandbox/ext-all-debug.js",
+		"/C/work/hp/sm/SM_trunk/server/rte/src/AttachmentProxies.h",
+		"/C/work/hp/sm/SM_trunk/server/rte/src/JavaProxy.h",
+		"/C/work/hp/sm/SM_trunk/client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/grid/GridBuilder.java",
+		"/C/work/hp/sm/SM_trunk/client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/grid/BaseGridBuilder.java",
+		"/C/work/hp/sm/SM_trunk/client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/ListPresenterImpl.java",
+		"/C/work/hp/sm/SM_trunk/client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/GxtListView.java",
+		"/C/work/hp/sm/SM_trunk/client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/ListServiceImpl.java",
+		"/C/work/hp/sm/SM_trunk/client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/grid/render/PasswdMaskRenderStrategy.java",
+		"/C/work/hp/sm/SM_trunk/client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/grid/PagingResultBuilder.java",
+		"/C/work/hp/sm/SM_trunk/server/rte/src/xmlwsdl.h",
+		"/C/work/hp/sm/SM_trunk/server/rte/src/tpzmethods.cpp",
+		"/C/work/hp/sm/SM_trunk/server/rte/src/login.cpp",
+		"/C/work/hp/sm/SM_trunk/client/eclipse/admin/src/java/com/hp/ov/sm/client/eclipse/admin/views/DebugView.java",
+		"/C/work/hp/sm/SM_trunk/client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/KeyboardManager.java",
+		"/C/work/hp/sm/SM_trunk/server/utility/src/java/com/hp/ov/sm/server/utility/ServletUtility.java",
+		"/C/work/hp/sm/SM_trunk/server/test/webservices/test/java/com/hp/ov/sm/server/webservices/common/document/impl/BaseRequestDocument.java",
+		"/C/tools/dev/sublimetext2/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/tools/dev/sublimetext2/Data/Packages/Default/Global.sublime-settings",
+		"/C/tools/dev/sublimetext2/Data/Packages/User/Global.sublime-settings",
+		"/C/tools/dev/sublimetext2/Data/Packages/User/Distraction Free.sublime-settings",
+		"/C/tools/dev/sublimetext2/Data/Packages/User/XML.sublime-settings",
+		"/C/work/hp/sm/SM_trunk/pom.xml",
+		"/C/tools/dev/sublimetext2/Data/Packages/Default/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/kekeqi/Work/github/octopress/",
+			"/Users/kekeqi/Work/github/octopress/plugins",
+			"/Users/kekeqi/Work/ExtJS/ext-4.1.0-beta-3/src",
+			"",
+			"*.java",
+			"*.xml",
+			"",
+			"*.xsl",
+			"*.java, *.xsl, *.css, topaz.xml",
+			"*.java, *.xsl, *.css",
+			"*.java, *.xsl",
+			"*.java, *.xsl,",
+			"*.java, *.xsl",
+			"*.java",
+			"*.properties",
+			"*.java",
+			"*.js",
+			"*.java",
+			"*.jsp, *.xsl, *.js",
+			"*.jsp, *.xsl",
+			"*.c, *.cpp, *.java",
+			"*.c, *.cpp",
+			"*.c",
+			"*.js, *.xsl, *.jsp, *.jspf",
+			"*.js",
+			"",
+			"C:\\work\\hp\\sm\\SM_trunk\\server,-*.xml,*.cpp,*.c",
+			"C:\\work\\hp\\sm\\SM_trunk\\server,-*.xml",
+			"C:\\work\\hp\\sm\\SM_trunk\\server",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"archive",
+			"lastOverflowAdjust",
+			"innerCt",
+			"SpellCheckerBean",
+			"languagePropertiesFiles",
+			"loadProperties",
+			"getLanguageSpellingSession",
+			"loadProp",
+			"loadProper",
+			"loadProperty",
+			"wintertree",
+			"spell",
+			"end",
+			"fIsWorkflow",
+			"WORKFLOW_APPLET",
+			"gfile",
+			"Chart",
+			"Graph",
+			"Fill",
+			"SCTYPE_FILL",
+			"Fill",
+			"SCTYPE_BEVELFRAME",
+			"BevelFrame",
+			"SCTYPE_BEVELFRAME",
+			"BevelFrame",
+			"Parse",
+			"parse",
+			"PARSE",
+			"Parse",
+			"DISPLAYUSINGTABLE",
+			"DisplayUsingTable",
+			"DISPLAYUSINGTABLE",
+			"DisplayUsingTable",
+			"mandatoryFieldStyle",
+			"OutputConv",
+			"foreignkeyref",
+			"KEY",
+			"Opaque",
+			"Elastic",
+			"Opaque",
+			"Elastic",
+			"fRefName",
+			"BITM",
+			"src",
+			"setText",
+			"setModel(",
+			"getText",
+			"setText",
+			"caption",
+			"align",
+			"getEdit",
+			"getEditor",
+			"BUTTON",
+			"BUTTON_ID",
+			"Props.",
+			"XMLControlPropertySource",
+			"pse =",
+			"pse ",
+			"pse",
+			"Props.CAPTION",
+			"Props.BackgroundStyle",
+			"Foreground",
+			"makeFormFromDoc",
+			"FormCache",
+			"sDrillDownEvent",
+			"PARAM_Command",
+			"SERVICE_CommandLine",
+			"getFormByName",
+			"getFormat",
+			"getDocument",
+			"REQ_GetData",
+			"getData",
+			"Parameters",
+			"getRequestParameters",
+			"getParameter",
+			"Parameters",
+			"parameters",
+			"REQ_GetDocument",
+			"getDocument",
+			"docengine",
+			"callDocEngine",
+			"docengine",
+			"CONNECTION",
+			"fKeepAlive",
+			"keepAlive",
+			"connection",
+			"jSession",
+			"sess",
+			"cookie",
+			"headers",
+			"ServiceN",
+			"ServiceName",
+			"REQ_SetPreferences",
+			"REQ_GetPreferences",
+			"getPreferences",
+			"fKeepA",
+			"newMessage",
+			"formTitle",
+			"tpz_formTitle",
+			"setTitle",
+			"title",
+			"appLabels",
+			"label",
+			"openNewTabPanel",
+			"addTab",
+			"processTab",
+			"domready",
+			"tabready",
+			"mode",
+			"MODE",
+			"MODES",
+			"initiateSess",
+			"tryS",
+			"getModeFromQuery",
+			"mode",
+			"getRedirectLocation",
+			"no heartbeat",
+			"heartbeat",
+			"no heartbeat",
+			"getActiveTab",
+			"getActive",
+			"SAML",
+			"enter",
+			"handleEnter",
+			"ESSONLY",
+			"ESS_ONLY",
+			"ESS",
+			"ess"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"attachfield",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/view/AttachField.java"
+			],
+			[
+				"fileinput",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/view/FileInput.java"
+			],
+			[
+				"imagesour",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/util/ImageSource.java"
+			],
+			[
+				"form",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/form/Form.java"
+			],
+			[
+				"xmlchart",
+				"client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLChart.java"
+			],
+			[
+				"xmlattachments",
+				"client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLAttachments.java"
+			],
+			[
+				"xmlbutt",
+				"client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLButton.java"
+			],
+			[
+				"form.java",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/form/Form.java"
+			],
+			[
+				"xmlcontrol",
+				"client/eclipse/user/src/java/com/hp/ov/sm/client/eclipse/user/editors/format/XMLControl.java"
+			],
+			[
+				"soapclient.java",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/communications/SOAPClient.java"
+			],
+			[
+				"soapclient",
+				"server/utility/src/java/com/hp/ov/sm/server/utility/SoapClient.java"
+			],
+			[
+				"formcache",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/util/FormCache.java"
+			],
+			[
+				"lists.js",
+				"client/webtier/web/js/lists.js"
+			],
+			[
+				"constant",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/util/Constants.java"
+			],
+			[
+				"protoc",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/util/Protocol.java"
+			],
+			[
+				"messenger",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/util/Messenger.java"
+			],
+			[
+				"constants",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/util/Constants.java"
+			],
+			[
+				"soapgenerator",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/generators/SOAPGenerator.java"
+			],
+			[
+				"scsoapc",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/soap/SCSOAPConnectionImpl.java"
+			],
+			[
+				"soapm",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/soap/SOAPMetaFactory.java"
+			],
+			[
+				"webclient",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/WebClient.java"
+			],
+			[
+				"soareq",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/soap/SoapReq.java"
+			],
+			[
+				"scclin",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/communications/SCClientSysInfo.java"
+			],
+			[
+				"scsoap",
+				"client/client-common/src/java/com/hp/ov/sm/client/common/soap/SCSOAPConnectionImpl.java"
+			],
+			[
+				"qbel",
+				"client/webtier/web/WEB-INF/templates/topaz/qbe_list.xsl"
+			],
+			[
+				"webcontr",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/WebController.java"
+			],
+			[
+				"webcon",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/WebControllerServlet.java"
+			],
+			[
+				"webcontroll",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/WebController.java"
+			],
+			[
+				"webcontroller",
+				"client/webtier/src/java/com/hp/ov/sm/client/webtier/WebController.java"
+			],
+			[
+				"jlog",
+				"server/common/src/java/com/hp/ov/sm/common/core/JLog.java"
+			],
+			[
+				"cwclistener",
+				"client/cwc/trunk/cwc-framework/src/java/com/hp/ov/cwc/web/CwcServletContextListener.java"
+			],
+			[
+				"keyboard",
+				"client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/KeyboardManager.java"
+			],
+			[
+				"basegrid",
+				"client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/grid/BaseGridBuilder.java"
+			],
+			[
+				"raddebug",
+				"client/eclipse/admin/src/java/com/hp/ov/sm/client/eclipse/admin/views/DebugView.java"
+			],
+			[
+				"listserviceim",
+				"client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/ListServiceImpl.java"
+			],
+			[
+				"listview",
+				"client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/GxtListView.java"
+			],
+			[
+				"listpresenti",
+				"client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/ListPresenterImpl.java"
+			],
+			[
+				"basebui",
+				"client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/grid/BaseGridBuilder.java"
+			],
+			[
+				"gridbui",
+				"client/gwt/src/java/com/hp/ov/sm/client/webtier/gwt/list/client/grid/GridBuilder.java"
+			],
+			[
+				"jaaproxy",
+				"server/rte/src/JavaProxy.h"
+			],
+			[
+				"cscfile.h",
+				"server/rte/src/CScFile.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 449.0,
+	"status_bar_visible": true
+}
